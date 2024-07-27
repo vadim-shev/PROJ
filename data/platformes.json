@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Product 1", 
+        "image": "./assets/Platform/fence.png", 
+        "price": "$10.99" 
+    },
+    {
+        "name": "Product 2", 
+        "image": "./assets/Platform/2fence.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 3", 
+        "image": "./assets/Platform/3fence.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 4", 
+        "image": "./assets/Platform/4fence.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 5", 
+        "image": "./assets/Platform/5fence.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 6", 
+        "image": "./assets/Platform/6fence.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 7", 
+        "image": "./assets/Platform/place.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 8", 
+        "image": "./assets/Platform/place2.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 9", 
+        "image": "./assets/Platform/place_.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 10", 
+        "image": "./assets/Platform/place_2.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 11", 
+        "image": "./assets/Platform/pl1.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 12", 
+        "image": "./assets/Platform/pl11.png", 
+        "price": "$15.99" 
+     },
+    {
+        "name": "Product 13", 
+        "image": "./assets/Platform/pl3.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 14", 
+        "image": "./assets/Platform/pl4.png", 
+        "price": "$15.99" 
+     }
+]

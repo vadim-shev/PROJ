@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Product 1", 
+        "image": "./assets/Tables/1bench.png", 
+        "price": "$10.99" 
+    },
+    {
+        "name": "Product 2", 
+        "image": "./assets/Tables/2bench.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 3", 
+        "image": "./assets/Tables/3bench.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 4", 
+        "image": "./assets/Tables/4bench.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 5", 
+        "image": "./assets/Tables/5bench.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 6", 
+        "image": "./assets/Tables/6bench.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 7", 
+        "image": "./assets/Tables/7bench.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 8", 
+        "image": "./assets/Tables/8bench.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 9", 
+        "image": "./assets/Tables/8bench.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 10", 
+        "image": "./assets/Tables/1bench+g.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 11", 
+        "image": "./assets/Tables/2bench+g.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 12", 
+        "image": "./assets/Tables/3bench+g2.png",
+        "price": "$15.99" 
+     },
+    {
+        "name": "Product 13", 
+        "image": "./assets/Tables/4bench+g.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 14", 
+        "image": "./assets/Tables/5bench+g.png",
+        "price": "$15.99" 
+     },
+    {
+        "name": "Product 15", 
+        "image": "./assets/Tables/6bench+g.png", 
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 16", 
+        "image": "./assets/Tables/7bench+g.png",
+        "price": "$15.99" 
+    },
+    {
+        "name": "Product 17", 
+        "image": "./assets/Tables/8bench+g.png",
+        "price": "$15.99" 
+    }
+]
